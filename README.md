@@ -20,5 +20,5 @@
 
 <p align="left">
   <a href="#" title="kynhoaugusto@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=kynhoaugusto@gmail.com" alt="Gmail"/></a>
 </p>
