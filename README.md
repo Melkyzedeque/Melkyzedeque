@@ -1,16 +1,24 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**Melkyzedeque/Melkyzedeque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá! Seja bem-vindo ao meu perfil do GitHub.Sou tecnólogo em Sistemas de Informação pela Faculdade FAA IESA e, atualmente, continuo expandindo meus conhecimentos na área como estudante de Bacharelado em Sistemas de Informação no Instituto Federal de Alagoas (IFAL), onde ingressei em 2020. 
+  Movido pelo aprendizado constante, busco sempre me atualizar com as novas tendências da tecnologia. Atualmente, atuo como estagiário na Secretaria de Estado da Educação (SEDUC), fazendo parte da equipe do GAP (Gerenciamento e Atribuições de Projeto) e exercendo funções de suporte técnico nos setores internos do órgão. 
+  Na vida pessoal, tenho Deus como meu lema principal e sou completamente dedicado à minha família.Sinta-se à vontade para explorar meus repositórios e projetos!
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: **PHP/Laravel, Python.**
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: **Visual Studio, mysql, github, git, portugol, netbeans.**
+</p>
+
+<p align="left">
+  💌 Contato através do email: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="kynhoaugusto@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+</p>
